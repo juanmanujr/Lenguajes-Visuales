@@ -1,0 +1,12 @@
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\numero primo\numero primo\bin\Debug\numero primo.exe.config
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\numero primo\numero primo\bin\Debug\numero primo.exe
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\numero primo\numero primo\bin\Debug\numero primo.pdb
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\numero primo\numero primo\bin\Debug\numero primo.xml
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\numero primo\numero primo\obj\Debug\numero primo.vbproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\numero primo\numero primo\obj\Debug\numero_primo.Form1.resources
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\numero primo\numero primo\obj\Debug\numero_primo.Resources.resources
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\numero primo\numero primo\obj\Debug\numero primo.vbproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\numero primo\numero primo\obj\Debug\numero primo.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\numero primo\numero primo\obj\Debug\numero primo.exe
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\numero primo\numero primo\obj\Debug\numero primo.xml
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\numero primo\numero primo\obj\Debug\numero primo.pdb

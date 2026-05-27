@@ -1,0 +1,11 @@
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\numeros pares del 1 al 20\numeros pares del 1 al 20\bin\Debug\numeros pares del 1 al 20.exe.config
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\numeros pares del 1 al 20\numeros pares del 1 al 20\bin\Debug\numeros pares del 1 al 20.exe
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\numeros pares del 1 al 20\numeros pares del 1 al 20\bin\Debug\numeros pares del 1 al 20.pdb
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\numeros pares del 1 al 20\numeros pares del 1 al 20\bin\Debug\numeros pares del 1 al 20.xml
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\numeros pares del 1 al 20\numeros pares del 1 al 20\obj\Debug\numeros_pares_del_1_al_20.Form1.resources
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\numeros pares del 1 al 20\numeros pares del 1 al 20\obj\Debug\numeros_pares_del_1_al_20.Resources.resources
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\numeros pares del 1 al 20\numeros pares del 1 al 20\obj\Debug\numeros pares del 1 al 20.vbproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\numeros pares del 1 al 20\numeros pares del 1 al 20\obj\Debug\numeros pares del 1 al 20.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\numeros pares del 1 al 20\numeros pares del 1 al 20\obj\Debug\numeros pares del 1 al 20.exe
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\numeros pares del 1 al 20\numeros pares del 1 al 20\obj\Debug\numeros pares del 1 al 20.xml
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\numeros pares del 1 al 20\numeros pares del 1 al 20\obj\Debug\numeros pares del 1 al 20.pdb
