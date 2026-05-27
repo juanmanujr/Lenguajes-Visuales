@@ -1,0 +1,12 @@
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\tabla de multiplicar\tabla de multiplicar\bin\Debug\tabla de multiplicar.exe.config
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\tabla de multiplicar\tabla de multiplicar\bin\Debug\tabla de multiplicar.exe
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\tabla de multiplicar\tabla de multiplicar\bin\Debug\tabla de multiplicar.pdb
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\tabla de multiplicar\tabla de multiplicar\bin\Debug\tabla de multiplicar.xml
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\tabla de multiplicar\tabla de multiplicar\obj\Debug\tabla de multiplicar.vbproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\tabla de multiplicar\tabla de multiplicar\obj\Debug\tabla_de_multiplicar.Form1.resources
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\tabla de multiplicar\tabla de multiplicar\obj\Debug\tabla_de_multiplicar.Resources.resources
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\tabla de multiplicar\tabla de multiplicar\obj\Debug\tabla de multiplicar.vbproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\tabla de multiplicar\tabla de multiplicar\obj\Debug\tabla de multiplicar.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\tabla de multiplicar\tabla de multiplicar\obj\Debug\tabla de multiplicar.exe
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\tabla de multiplicar\tabla de multiplicar\obj\Debug\tabla de multiplicar.xml
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\tabla de multiplicar\tabla de multiplicar\obj\Debug\tabla de multiplicar.pdb

@@ -1,0 +1,12 @@
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\calculadora basica checkbox\calculadora basica checkbox\bin\Debug\calculadora basica checkbox.exe.config
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\calculadora basica checkbox\calculadora basica checkbox\bin\Debug\calculadora basica checkbox.exe
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\calculadora basica checkbox\calculadora basica checkbox\bin\Debug\calculadora basica checkbox.pdb
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\calculadora basica checkbox\calculadora basica checkbox\bin\Debug\calculadora basica checkbox.xml
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\calculadora basica checkbox\calculadora basica checkbox\obj\Debug\calculadora basica checkbox.vbproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\calculadora basica checkbox\calculadora basica checkbox\obj\Debug\calculadora_basica_checkbox.Form1.resources
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\calculadora basica checkbox\calculadora basica checkbox\obj\Debug\calculadora_basica_checkbox.Resources.resources
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\calculadora basica checkbox\calculadora basica checkbox\obj\Debug\calculadora basica checkbox.vbproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\calculadora basica checkbox\calculadora basica checkbox\obj\Debug\calculadora basica checkbox.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\calculadora basica checkbox\calculadora basica checkbox\obj\Debug\calculadora basica checkbox.exe
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\calculadora basica checkbox\calculadora basica checkbox\obj\Debug\calculadora basica checkbox.xml
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\calculadora basica checkbox\calculadora basica checkbox\obj\Debug\calculadora basica checkbox.pdb
