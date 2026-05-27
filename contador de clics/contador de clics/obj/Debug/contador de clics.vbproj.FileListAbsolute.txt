@@ -1,0 +1,11 @@
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\contador de clics\contador de clics\bin\Debug\contador de clics.exe.config
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\contador de clics\contador de clics\bin\Debug\contador de clics.exe
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\contador de clics\contador de clics\bin\Debug\contador de clics.pdb
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\contador de clics\contador de clics\bin\Debug\contador de clics.xml
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\contador de clics\contador de clics\obj\Debug\contador_de_clics.Form1.resources
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\contador de clics\contador de clics\obj\Debug\contador_de_clics.Resources.resources
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\contador de clics\contador de clics\obj\Debug\contador de clics.vbproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\contador de clics\contador de clics\obj\Debug\contador de clics.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\contador de clics\contador de clics\obj\Debug\contador de clics.exe
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\contador de clics\contador de clics\obj\Debug\contador de clics.xml
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\contador de clics\contador de clics\obj\Debug\contador de clics.pdb

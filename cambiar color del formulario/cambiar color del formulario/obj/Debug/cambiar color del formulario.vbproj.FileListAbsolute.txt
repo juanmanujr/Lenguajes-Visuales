@@ -1,0 +1,12 @@
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\cambiar color del formulario\cambiar color del formulario\bin\Debug\cambiar color del formulario.exe.config
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\cambiar color del formulario\cambiar color del formulario\bin\Debug\cambiar color del formulario.exe
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\cambiar color del formulario\cambiar color del formulario\bin\Debug\cambiar color del formulario.pdb
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\cambiar color del formulario\cambiar color del formulario\bin\Debug\cambiar color del formulario.xml
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\cambiar color del formulario\cambiar color del formulario\obj\Debug\cambiar_color_del_formulario.Form1.resources
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\cambiar color del formulario\cambiar color del formulario\obj\Debug\cambiar_color_del_formulario.Resources.resources
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\cambiar color del formulario\cambiar color del formulario\obj\Debug\cambiar color del formulario.vbproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\cambiar color del formulario\cambiar color del formulario\obj\Debug\cambiar color del formulario.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\cambiar color del formulario\cambiar color del formulario\obj\Debug\cambiar color del formulario.exe
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\cambiar color del formulario\cambiar color del formulario\obj\Debug\cambiar color del formulario.xml
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\cambiar color del formulario\cambiar color del formulario\obj\Debug\cambiar color del formulario.pdb
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\cambiar color del formulario\cambiar color del formulario\obj\Debug\cambiar color del formulario.vbproj.AssemblyReference.cache
