@@ -1,0 +1,12 @@
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Celsius a Fahrenheit\Celsius a Fahrenheit\bin\Debug\Celsius a Fahrenheit.exe.config
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Celsius a Fahrenheit\Celsius a Fahrenheit\bin\Debug\Celsius a Fahrenheit.exe
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Celsius a Fahrenheit\Celsius a Fahrenheit\bin\Debug\Celsius a Fahrenheit.pdb
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Celsius a Fahrenheit\Celsius a Fahrenheit\bin\Debug\Celsius a Fahrenheit.xml
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Celsius a Fahrenheit\Celsius a Fahrenheit\obj\Debug\Celsius a Fahrenheit.vbproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Celsius a Fahrenheit\Celsius a Fahrenheit\obj\Debug\Celsius_a_Fahrenheit.Form1.resources
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Celsius a Fahrenheit\Celsius a Fahrenheit\obj\Debug\Celsius_a_Fahrenheit.Resources.resources
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Celsius a Fahrenheit\Celsius a Fahrenheit\obj\Debug\Celsius a Fahrenheit.vbproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Celsius a Fahrenheit\Celsius a Fahrenheit\obj\Debug\Celsius a Fahrenheit.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Celsius a Fahrenheit\Celsius a Fahrenheit\obj\Debug\Celsius a Fahrenheit.exe
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Celsius a Fahrenheit\Celsius a Fahrenheit\obj\Debug\Celsius a Fahrenheit.xml
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Celsius a Fahrenheit\Celsius a Fahrenheit\obj\Debug\Celsius a Fahrenheit.pdb
