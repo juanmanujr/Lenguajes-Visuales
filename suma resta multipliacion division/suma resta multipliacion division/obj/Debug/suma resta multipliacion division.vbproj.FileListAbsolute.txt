@@ -1,0 +1,12 @@
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\suma resta multipliacion division\suma resta multipliacion division\bin\Debug\suma resta multipliacion division.exe.config
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\suma resta multipliacion division\suma resta multipliacion division\bin\Debug\suma resta multipliacion division.exe
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\suma resta multipliacion division\suma resta multipliacion division\bin\Debug\suma resta multipliacion division.pdb
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\suma resta multipliacion division\suma resta multipliacion division\bin\Debug\suma resta multipliacion division.xml
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\suma resta multipliacion division\suma resta multipliacion division\obj\Debug\suma resta multipliacion division.vbproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\suma resta multipliacion division\suma resta multipliacion division\obj\Debug\suma_resta_multipliacion_division.Form1.resources
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\suma resta multipliacion division\suma resta multipliacion division\obj\Debug\suma_resta_multipliacion_division.Resources.resources
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\suma resta multipliacion division\suma resta multipliacion division\obj\Debug\suma resta multipliacion division.vbproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\suma resta multipliacion division\suma resta multipliacion division\obj\Debug\suma resta multipliacion division.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\suma resta multipliacion division\suma resta multipliacion division\obj\Debug\suma resta multipliacion division.exe
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\suma resta multipliacion division\suma resta multipliacion division\obj\Debug\suma resta multipliacion division.xml
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\suma resta multipliacion division\suma resta multipliacion division\obj\Debug\suma resta multipliacion division.pdb

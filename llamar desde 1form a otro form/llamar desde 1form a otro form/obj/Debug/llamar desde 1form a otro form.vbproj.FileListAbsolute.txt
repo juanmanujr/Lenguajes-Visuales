@@ -1,0 +1,12 @@
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\llamar desde 1form a otro form\llamar desde 1form a otro form\bin\Debug\llamar desde 1form a otro form.exe.config
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\llamar desde 1form a otro form\llamar desde 1form a otro form\bin\Debug\llamar desde 1form a otro form.exe
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\llamar desde 1form a otro form\llamar desde 1form a otro form\bin\Debug\llamar desde 1form a otro form.pdb
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\llamar desde 1form a otro form\llamar desde 1form a otro form\bin\Debug\llamar desde 1form a otro form.xml
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\llamar desde 1form a otro form\llamar desde 1form a otro form\obj\Debug\llamar_desde_1form_a_otro_form.frmMiFormulario.resources
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\llamar desde 1form a otro form\llamar desde 1form a otro form\obj\Debug\llamar_desde_1form_a_otro_form.Resources.resources
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\llamar desde 1form a otro form\llamar desde 1form a otro form\obj\Debug\llamar desde 1form a otro form.vbproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\llamar desde 1form a otro form\llamar desde 1form a otro form\obj\Debug\llamar desde 1form a otro form.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\llamar desde 1form a otro form\llamar desde 1form a otro form\obj\Debug\llamar desde 1form a otro form.exe
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\llamar desde 1form a otro form\llamar desde 1form a otro form\obj\Debug\llamar desde 1form a otro form.xml
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\llamar desde 1form a otro form\llamar desde 1form a otro form\obj\Debug\llamar desde 1form a otro form.pdb
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\llamar desde 1form a otro form\llamar desde 1form a otro form\obj\Debug\llamar_desde_1form_a_otro_form.Form2.resources
