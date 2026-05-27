@@ -1,0 +1,13 @@
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 3\Calculadora basica\Calculadora basica\obj\Debug\Calculadora basica.vbproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 3\Calculadora basica\Calculadora basica\obj\Debug\Calculadora_basica.Form1.resources
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 3\Calculadora basica\Calculadora basica\obj\Debug\Calculadora_basica.Resources.resources
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 3\Calculadora basica\Calculadora basica\obj\Debug\Calculadora basica.vbproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 3\Calculadora basica\Calculadora basica\obj\Debug\Calculadora basica.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 3\Calculadora basica\Calculadora basica\bin\Debug\Calculadora basica.exe.config
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 3\Calculadora basica\Calculadora basica\bin\Debug\Calculadora basica.exe
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 3\Calculadora basica\Calculadora basica\bin\Debug\Calculadora basica.pdb
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 3\Calculadora basica\Calculadora basica\bin\Debug\Calculadora basica.xml
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 3\Calculadora basica\Calculadora basica\obj\Debug\Calculadora basica.exe
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 3\Calculadora basica\Calculadora basica\obj\Debug\Calculadora basica.xml
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 3\Calculadora basica\Calculadora basica\obj\Debug\Calculadora basica.pdb
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 3\Calculadora basica\Calculadora basica\obj\Debug\Calculadora_basica.Calcucal.resources
