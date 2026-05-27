@@ -1,0 +1,12 @@
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 3\Lista de Compras\Lista de Compras\bin\Debug\Lista de Compras.exe.config
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 3\Lista de Compras\Lista de Compras\bin\Debug\Lista de Compras.exe
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 3\Lista de Compras\Lista de Compras\bin\Debug\Lista de Compras.pdb
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 3\Lista de Compras\Lista de Compras\bin\Debug\Lista de Compras.xml
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 3\Lista de Compras\Lista de Compras\obj\Debug\Lista de Compras.vbproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 3\Lista de Compras\Lista de Compras\obj\Debug\Lista_de_Compras.Form1.resources
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 3\Lista de Compras\Lista de Compras\obj\Debug\Lista_de_Compras.Resources.resources
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 3\Lista de Compras\Lista de Compras\obj\Debug\Lista de Compras.vbproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 3\Lista de Compras\Lista de Compras\obj\Debug\Lista de Compras.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 3\Lista de Compras\Lista de Compras\obj\Debug\Lista de Compras.exe
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 3\Lista de Compras\Lista de Compras\obj\Debug\Lista de Compras.xml
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 3\Lista de Compras\Lista de Compras\obj\Debug\Lista de Compras.pdb
