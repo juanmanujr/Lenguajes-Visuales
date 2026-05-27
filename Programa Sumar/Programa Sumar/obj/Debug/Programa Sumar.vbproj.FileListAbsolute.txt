@@ -1,0 +1,12 @@
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\Programa Sumar\Programa Sumar\bin\Debug\Programa Sumar.exe.config
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\Programa Sumar\Programa Sumar\bin\Debug\Programa Sumar.exe
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\Programa Sumar\Programa Sumar\bin\Debug\Programa Sumar.pdb
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\Programa Sumar\Programa Sumar\bin\Debug\Programa Sumar.xml
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\Programa Sumar\Programa Sumar\obj\Debug\Programa Sumar.vbproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\Programa Sumar\Programa Sumar\obj\Debug\Programa_Sumar.frmProgramaSumar.resources
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\Programa Sumar\Programa Sumar\obj\Debug\Programa_Sumar.Resources.resources
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\Programa Sumar\Programa Sumar\obj\Debug\Programa Sumar.vbproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\Programa Sumar\Programa Sumar\obj\Debug\Programa Sumar.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\Programa Sumar\Programa Sumar\obj\Debug\Programa Sumar.exe
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\Programa Sumar\Programa Sumar\obj\Debug\Programa Sumar.xml
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\Programa Sumar\Programa Sumar\obj\Debug\Programa Sumar.pdb
