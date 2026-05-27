@@ -1,12 +1,12 @@
-C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\calculadora de descuento\calculadora de descuento\obj\Debug\calculadora de descuento.vbproj.AssemblyReference.cache
-C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\calculadora de descuento\calculadora de descuento\obj\Debug\calculadora_de_descuento.Form1.resources
-C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\calculadora de descuento\calculadora de descuento\obj\Debug\calculadora_de_descuento.Resources.resources
-C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\calculadora de descuento\calculadora de descuento\obj\Debug\calculadora de descuento.vbproj.GenerateResource.cache
-C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\calculadora de descuento\calculadora de descuento\obj\Debug\calculadora de descuento.vbproj.CoreCompileInputs.cache
-C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\calculadora de descuento\calculadora de descuento\bin\Debug\calculadora de descuento.exe.config
-C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\calculadora de descuento\calculadora de descuento\bin\Debug\calculadora de descuento.exe
-C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\calculadora de descuento\calculadora de descuento\bin\Debug\calculadora de descuento.pdb
-C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\calculadora de descuento\calculadora de descuento\bin\Debug\calculadora de descuento.xml
-C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\calculadora de descuento\calculadora de descuento\obj\Debug\calculadora de descuento.exe
-C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\calculadora de descuento\calculadora de descuento\obj\Debug\calculadora de descuento.xml
-C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\calculadora de descuento\calculadora de descuento\obj\Debug\calculadora de descuento.pdb
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\calculadora de descuento\calculadora de descuento\bin\Debug\calculadora de descuento.exe.config
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\calculadora de descuento\calculadora de descuento\bin\Debug\calculadora de descuento.exe
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\calculadora de descuento\calculadora de descuento\bin\Debug\calculadora de descuento.pdb
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\calculadora de descuento\calculadora de descuento\bin\Debug\calculadora de descuento.xml
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\calculadora de descuento\calculadora de descuento\obj\Debug\calculadora de descuento.vbproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\calculadora de descuento\calculadora de descuento\obj\Debug\calculadora_de_descuento.Form1.resources
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\calculadora de descuento\calculadora de descuento\obj\Debug\calculadora_de_descuento.Resources.resources
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\calculadora de descuento\calculadora de descuento\obj\Debug\calculadora de descuento.vbproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\calculadora de descuento\calculadora de descuento\obj\Debug\calculadora de descuento.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\calculadora de descuento\calculadora de descuento\obj\Debug\calculadora de descuento.exe
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\calculadora de descuento\calculadora de descuento\obj\Debug\calculadora de descuento.xml
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\calculadora de descuento\calculadora de descuento\obj\Debug\calculadora de descuento.pdb

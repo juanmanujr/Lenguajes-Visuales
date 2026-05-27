@@ -1,12 +1,12 @@
-C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\agregar y eliminar nombres\agregar y eliminar nombres\bin\Debug\agregar y eliminar nombres.exe.config
-C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\agregar y eliminar nombres\agregar y eliminar nombres\bin\Debug\agregar y eliminar nombres.exe
-C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\agregar y eliminar nombres\agregar y eliminar nombres\bin\Debug\agregar y eliminar nombres.pdb
-C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\agregar y eliminar nombres\agregar y eliminar nombres\bin\Debug\agregar y eliminar nombres.xml
-C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\agregar y eliminar nombres\agregar y eliminar nombres\obj\Debug\agregar y eliminar nombres.vbproj.AssemblyReference.cache
-C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\agregar y eliminar nombres\agregar y eliminar nombres\obj\Debug\agregar_y_eliminar_nombres.Form1.resources
-C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\agregar y eliminar nombres\agregar y eliminar nombres\obj\Debug\agregar_y_eliminar_nombres.Resources.resources
-C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\agregar y eliminar nombres\agregar y eliminar nombres\obj\Debug\agregar y eliminar nombres.vbproj.GenerateResource.cache
-C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\agregar y eliminar nombres\agregar y eliminar nombres\obj\Debug\agregar y eliminar nombres.vbproj.CoreCompileInputs.cache
-C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\agregar y eliminar nombres\agregar y eliminar nombres\obj\Debug\agregar y eliminar nombres.exe
-C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\agregar y eliminar nombres\agregar y eliminar nombres\obj\Debug\agregar y eliminar nombres.xml
-C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\agregar y eliminar nombres\agregar y eliminar nombres\obj\Debug\agregar y eliminar nombres.pdb
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\agregar y eliminar nombres\agregar y eliminar nombres\bin\Debug\agregar y eliminar nombres.exe.config
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\agregar y eliminar nombres\agregar y eliminar nombres\bin\Debug\agregar y eliminar nombres.exe
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\agregar y eliminar nombres\agregar y eliminar nombres\bin\Debug\agregar y eliminar nombres.pdb
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\agregar y eliminar nombres\agregar y eliminar nombres\bin\Debug\agregar y eliminar nombres.xml
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\agregar y eliminar nombres\agregar y eliminar nombres\obj\Debug\agregar y eliminar nombres.vbproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\agregar y eliminar nombres\agregar y eliminar nombres\obj\Debug\agregar_y_eliminar_nombres.Form1.resources
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\agregar y eliminar nombres\agregar y eliminar nombres\obj\Debug\agregar_y_eliminar_nombres.Resources.resources
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\agregar y eliminar nombres\agregar y eliminar nombres\obj\Debug\agregar y eliminar nombres.vbproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\agregar y eliminar nombres\agregar y eliminar nombres\obj\Debug\agregar y eliminar nombres.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\agregar y eliminar nombres\agregar y eliminar nombres\obj\Debug\agregar y eliminar nombres.exe
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\agregar y eliminar nombres\agregar y eliminar nombres\obj\Debug\agregar y eliminar nombres.xml
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\agregar y eliminar nombres\agregar y eliminar nombres\obj\Debug\agregar y eliminar nombres.pdb

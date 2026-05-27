@@ -22,55 +22,77 @@ Partial Class Form1
     'No lo modifique con el editor de código.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.TextBox1 = New System.Windows.Forms.TextBox()
         Me.ListBox1 = New System.Windows.Forms.ListBox()
-        Me.Button1 = New System.Windows.Forms.Button()
-        Me.Button2 = New System.Windows.Forms.Button()
+        Me.txtNombre = New System.Windows.Forms.TextBox()
+        Me.btnAgregar = New System.Windows.Forms.Button()
+        Me.btnEliminar = New System.Windows.Forms.Button()
+        Me.Label1 = New System.Windows.Forms.Label()
+        Me.Label2 = New System.Windows.Forms.Label()
         Me.SuspendLayout()
-        '
-        'TextBox1
-        '
-        Me.TextBox1.Location = New System.Drawing.Point(403, 87)
-        Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(100, 22)
-        Me.TextBox1.TabIndex = 0
         '
         'ListBox1
         '
         Me.ListBox1.FormattingEnabled = True
         Me.ListBox1.ItemHeight = 16
-        Me.ListBox1.Location = New System.Drawing.Point(174, 142)
+        Me.ListBox1.Location = New System.Drawing.Point(388, 105)
         Me.ListBox1.Name = "ListBox1"
         Me.ListBox1.Size = New System.Drawing.Size(120, 84)
-        Me.ListBox1.TabIndex = 1
+        Me.ListBox1.TabIndex = 0
         '
-        'Button1
+        'txtNombre
         '
-        Me.Button1.Location = New System.Drawing.Point(404, 201)
-        Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(75, 23)
-        Me.Button1.TabIndex = 2
-        Me.Button1.Text = "Button1"
-        Me.Button1.UseVisualStyleBackColor = True
+        Me.txtNombre.Location = New System.Drawing.Point(163, 105)
+        Me.txtNombre.Name = "txtNombre"
+        Me.txtNombre.Size = New System.Drawing.Size(100, 22)
+        Me.txtNombre.TabIndex = 1
         '
-        'Button2
+        'btnAgregar
         '
-        Me.Button2.Location = New System.Drawing.Point(404, 245)
-        Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(75, 23)
-        Me.Button2.TabIndex = 3
-        Me.Button2.Text = "Button2"
-        Me.Button2.UseVisualStyleBackColor = True
+        Me.btnAgregar.Location = New System.Drawing.Point(163, 253)
+        Me.btnAgregar.Name = "btnAgregar"
+        Me.btnAgregar.Size = New System.Drawing.Size(109, 37)
+        Me.btnAgregar.TabIndex = 2
+        Me.btnAgregar.Text = "Agregar"
+        Me.btnAgregar.UseVisualStyleBackColor = True
+        '
+        'btnEliminar
+        '
+        Me.btnEliminar.Location = New System.Drawing.Point(388, 253)
+        Me.btnEliminar.Name = "btnEliminar"
+        Me.btnEliminar.Size = New System.Drawing.Size(120, 37)
+        Me.btnEliminar.TabIndex = 3
+        Me.btnEliminar.Text = "Eliminar"
+        Me.btnEliminar.UseVisualStyleBackColor = True
+        '
+        'Label1
+        '
+        Me.Label1.AutoSize = True
+        Me.Label1.Location = New System.Drawing.Point(27, 105)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(122, 17)
+        Me.Label1.TabIndex = 4
+        Me.Label1.Text = "Ingrese el nombre"
+        '
+        'Label2
+        '
+        Me.Label2.AutoSize = True
+        Me.Label2.Location = New System.Drawing.Point(386, 59)
+        Me.Label2.Name = "Label2"
+        Me.Label2.Size = New System.Drawing.Size(117, 17)
+        Me.Label2.TabIndex = 5
+        Me.Label2.Text = "Lista de nombres"
         '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(800, 450)
-        Me.Controls.Add(Me.Button2)
-        Me.Controls.Add(Me.Button1)
+        Me.Controls.Add(Me.Label2)
+        Me.Controls.Add(Me.Label1)
+        Me.Controls.Add(Me.btnEliminar)
+        Me.Controls.Add(Me.btnAgregar)
+        Me.Controls.Add(Me.txtNombre)
         Me.Controls.Add(Me.ListBox1)
-        Me.Controls.Add(Me.TextBox1)
         Me.Name = "Form1"
         Me.Text = "Form1"
         Me.ResumeLayout(False)
@@ -78,8 +100,10 @@ Partial Class Form1
 
     End Sub
 
-    Friend WithEvents TextBox1 As TextBox
     Friend WithEvents ListBox1 As ListBox
-    Friend WithEvents Button1 As Button
-    Friend WithEvents Button2 As Button
+    Friend WithEvents txtNombre As TextBox
+    Friend WithEvents btnAgregar As Button
+    Friend WithEvents btnEliminar As Button
+    Friend WithEvents Label1 As Label
+    Friend WithEvents Label2 As Label
 End Class
