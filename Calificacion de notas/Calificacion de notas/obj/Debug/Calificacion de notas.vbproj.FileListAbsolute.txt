@@ -1,0 +1,12 @@
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\Calificacion de notas\Calificacion de notas\obj\Debug\Calificacion de notas.vbproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\Calificacion de notas\Calificacion de notas\obj\Debug\Calificacion_de_notas.Form1.resources
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\Calificacion de notas\Calificacion de notas\obj\Debug\Calificacion_de_notas.Resources.resources
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\Calificacion de notas\Calificacion de notas\obj\Debug\Calificacion de notas.vbproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\Calificacion de notas\Calificacion de notas\obj\Debug\Calificacion de notas.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\Calificacion de notas\Calificacion de notas\bin\Debug\Calificacion de notas.exe.config
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\Calificacion de notas\Calificacion de notas\bin\Debug\Calificacion de notas.exe
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\Calificacion de notas\Calificacion de notas\bin\Debug\Calificacion de notas.pdb
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\Calificacion de notas\Calificacion de notas\bin\Debug\Calificacion de notas.xml
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\Calificacion de notas\Calificacion de notas\obj\Debug\Calificacion de notas.exe
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\Calificacion de notas\Calificacion de notas\obj\Debug\Calificacion de notas.xml
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\Calificacion de notas\Calificacion de notas\obj\Debug\Calificacion de notas.pdb
