@@ -22,24 +22,24 @@ Partial Class Form1
     'No lo modifique con el editor de código.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.btnVerificar = New System.Windows.Forms.Button()
+        Me.btnVerificarPrimo = New System.Windows.Forms.Button()
         Me.txtNumero = New System.Windows.Forms.TextBox()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.lblResultado = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
-        'btnVerificar
+        'btnVerificarPrimo
         '
-        Me.btnVerificar.Location = New System.Drawing.Point(273, 239)
-        Me.btnVerificar.Name = "btnVerificar"
-        Me.btnVerificar.Size = New System.Drawing.Size(100, 44)
-        Me.btnVerificar.TabIndex = 0
-        Me.btnVerificar.Text = "Verificar"
-        Me.btnVerificar.UseVisualStyleBackColor = True
+        Me.btnVerificarPrimo.Location = New System.Drawing.Point(313, 222)
+        Me.btnVerificarPrimo.Name = "btnVerificarPrimo"
+        Me.btnVerificarPrimo.Size = New System.Drawing.Size(140, 67)
+        Me.btnVerificarPrimo.TabIndex = 0
+        Me.btnVerificarPrimo.Text = "Verificar"
+        Me.btnVerificarPrimo.UseVisualStyleBackColor = True
         '
         'txtNumero
         '
-        Me.txtNumero.Location = New System.Drawing.Point(273, 156)
+        Me.txtNumero.Location = New System.Drawing.Point(333, 159)
         Me.txtNumero.Name = "txtNumero"
         Me.txtNumero.Size = New System.Drawing.Size(100, 22)
         Me.txtNumero.TabIndex = 1
@@ -47,19 +47,19 @@ Partial Class Form1
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(98, 156)
+        Me.Label1.Location = New System.Drawing.Point(146, 157)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(127, 17)
-        Me.Label1.TabIndex = 3
+        Me.Label1.TabIndex = 2
         Me.Label1.Text = "Ingrese un numero"
         '
         'lblResultado
         '
         Me.lblResultado.AutoSize = True
-        Me.lblResultado.Location = New System.Drawing.Point(447, 161)
+        Me.lblResultado.Location = New System.Drawing.Point(512, 164)
         Me.lblResultado.Name = "lblResultado"
         Me.lblResultado.Size = New System.Drawing.Size(0, 17)
-        Me.lblResultado.TabIndex = 4
+        Me.lblResultado.TabIndex = 3
         '
         'Form1
         '
@@ -69,7 +69,7 @@ Partial Class Form1
         Me.Controls.Add(Me.lblResultado)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.txtNumero)
-        Me.Controls.Add(Me.btnVerificar)
+        Me.Controls.Add(Me.btnVerificarPrimo)
         Me.Name = "Form1"
         Me.Text = "Form1"
         Me.ResumeLayout(False)
@@ -77,7 +77,7 @@ Partial Class Form1
 
     End Sub
 
-    Friend WithEvents btnVerificar As Button
+    Friend WithEvents btnVerificarPrimo As Button
     Friend WithEvents txtNumero As TextBox
     Friend WithEvents Label1 As Label
     Friend WithEvents lblResultado As Label

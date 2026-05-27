@@ -22,54 +22,46 @@ Partial Class Form1
     'No lo modifique con el editor de código.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.btnVerificar = New System.Windows.Forms.Button()
-        Me.txtNumero = New System.Windows.Forms.TextBox()
+        Me.lstPares = New System.Windows.Forms.ListBox()
+        Me.btnGenerar = New System.Windows.Forms.Button()
         Me.Label1 = New System.Windows.Forms.Label()
-        Me.lblResultado = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
-        'btnVerificar
+        'lstPares
         '
-        Me.btnVerificar.Location = New System.Drawing.Point(273, 239)
-        Me.btnVerificar.Name = "btnVerificar"
-        Me.btnVerificar.Size = New System.Drawing.Size(100, 44)
-        Me.btnVerificar.TabIndex = 0
-        Me.btnVerificar.Text = "Verificar"
-        Me.btnVerificar.UseVisualStyleBackColor = True
+        Me.lstPares.FormattingEnabled = True
+        Me.lstPares.ItemHeight = 16
+        Me.lstPares.Location = New System.Drawing.Point(320, 116)
+        Me.lstPares.Name = "lstPares"
+        Me.lstPares.Size = New System.Drawing.Size(132, 164)
+        Me.lstPares.TabIndex = 0
         '
-        'txtNumero
+        'btnGenerar
         '
-        Me.txtNumero.Location = New System.Drawing.Point(273, 156)
-        Me.txtNumero.Name = "txtNumero"
-        Me.txtNumero.Size = New System.Drawing.Size(100, 22)
-        Me.txtNumero.TabIndex = 1
+        Me.btnGenerar.Location = New System.Drawing.Point(344, 308)
+        Me.btnGenerar.Name = "btnGenerar"
+        Me.btnGenerar.Size = New System.Drawing.Size(86, 37)
+        Me.btnGenerar.TabIndex = 1
+        Me.btnGenerar.Text = "Generar"
+        Me.btnGenerar.UseVisualStyleBackColor = True
         '
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(98, 156)
+        Me.Label1.Location = New System.Drawing.Point(267, 66)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(127, 17)
-        Me.Label1.TabIndex = 3
-        Me.Label1.Text = "Ingrese un numero"
-        '
-        'lblResultado
-        '
-        Me.lblResultado.AutoSize = True
-        Me.lblResultado.Location = New System.Drawing.Point(447, 161)
-        Me.lblResultado.Name = "lblResultado"
-        Me.lblResultado.Size = New System.Drawing.Size(0, 17)
-        Me.lblResultado.TabIndex = 4
+        Me.Label1.Size = New System.Drawing.Size(230, 17)
+        Me.Label1.TabIndex = 2
+        Me.Label1.Text = "Generar numeros pares del 1 al 20"
         '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(800, 450)
-        Me.Controls.Add(Me.lblResultado)
         Me.Controls.Add(Me.Label1)
-        Me.Controls.Add(Me.txtNumero)
-        Me.Controls.Add(Me.btnVerificar)
+        Me.Controls.Add(Me.btnGenerar)
+        Me.Controls.Add(Me.lstPares)
         Me.Name = "Form1"
         Me.Text = "Form1"
         Me.ResumeLayout(False)
@@ -77,8 +69,7 @@ Partial Class Form1
 
     End Sub
 
-    Friend WithEvents btnVerificar As Button
-    Friend WithEvents txtNumero As TextBox
+    Friend WithEvents lstPares As ListBox
+    Friend WithEvents btnGenerar As Button
     Friend WithEvents Label1 As Label
-    Friend WithEvents lblResultado As Label
 End Class
