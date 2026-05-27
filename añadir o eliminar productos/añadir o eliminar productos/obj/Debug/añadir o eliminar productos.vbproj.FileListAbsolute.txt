@@ -1,0 +1,12 @@
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\añadir o eliminar productos\añadir o eliminar productos\bin\Debug\añadir o eliminar productos.exe.config
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\añadir o eliminar productos\añadir o eliminar productos\bin\Debug\añadir o eliminar productos.exe
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\añadir o eliminar productos\añadir o eliminar productos\bin\Debug\añadir o eliminar productos.pdb
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\añadir o eliminar productos\añadir o eliminar productos\bin\Debug\añadir o eliminar productos.xml
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\añadir o eliminar productos\añadir o eliminar productos\obj\Debug\añadir o eliminar productos.vbproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\añadir o eliminar productos\añadir o eliminar productos\obj\Debug\añadir_o_eliminar_productos.Form1.resources
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\añadir o eliminar productos\añadir o eliminar productos\obj\Debug\añadir_o_eliminar_productos.Resources.resources
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\añadir o eliminar productos\añadir o eliminar productos\obj\Debug\añadir o eliminar productos.vbproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\añadir o eliminar productos\añadir o eliminar productos\obj\Debug\añadir o eliminar productos.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\añadir o eliminar productos\añadir o eliminar productos\obj\Debug\añadir o eliminar productos.exe
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\añadir o eliminar productos\añadir o eliminar productos\obj\Debug\añadir o eliminar productos.xml
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Parcial 1\añadir o eliminar productos\añadir o eliminar productos\obj\Debug\añadir o eliminar productos.pdb
