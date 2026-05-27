@@ -1,0 +1,11 @@
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 10\venta_juanma\venta_juanma\bin\Debug\venta_juanma.exe.config
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 10\venta_juanma\venta_juanma\bin\Debug\venta_juanma.exe
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 10\venta_juanma\venta_juanma\bin\Debug\venta_juanma.pdb
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 10\venta_juanma\venta_juanma\bin\Debug\venta_juanma.xml
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 10\venta_juanma\venta_juanma\obj\Debug\venta_juanma.vbproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 10\venta_juanma\venta_juanma\obj\Debug\venta_juanma.Resources.resources
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 10\venta_juanma\venta_juanma\obj\Debug\venta_juanma.vbproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 10\venta_juanma\venta_juanma\obj\Debug\venta_juanma.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 10\venta_juanma\venta_juanma\obj\Debug\venta_juanma.exe
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 10\venta_juanma\venta_juanma\obj\Debug\venta_juanma.xml
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 10\venta_juanma\venta_juanma\obj\Debug\venta_juanma.pdb
