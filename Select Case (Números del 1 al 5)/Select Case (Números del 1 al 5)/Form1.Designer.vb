@@ -22,44 +22,33 @@ Partial Class Form1
     'No lo modifique con el editor de código.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        Me.btnMostrar = New System.Windows.Forms.Button()
         Me.txtNumero = New System.Windows.Forms.TextBox()
-        Me.btnVerificar = New System.Windows.Forms.Button()
-        Me.lblResultado = New System.Windows.Forms.Label()
         Me.SuspendLayout()
+        '
+        'btnMostrar
+        '
+        Me.btnMostrar.Location = New System.Drawing.Point(340, 70)
+        Me.btnMostrar.Name = "btnMostrar"
+        Me.btnMostrar.Size = New System.Drawing.Size(163, 41)
+        Me.btnMostrar.TabIndex = 0
+        Me.btnMostrar.Text = "Mostrar"
+        Me.btnMostrar.UseVisualStyleBackColor = True
         '
         'txtNumero
         '
-        Me.txtNumero.Location = New System.Drawing.Point(147, 99)
+        Me.txtNumero.Location = New System.Drawing.Point(151, 70)
         Me.txtNumero.Name = "txtNumero"
         Me.txtNumero.Size = New System.Drawing.Size(100, 22)
-        Me.txtNumero.TabIndex = 0
-        '
-        'btnVerificar
-        '
-        Me.btnVerificar.Location = New System.Drawing.Point(293, 99)
-        Me.btnVerificar.Name = "btnVerificar"
-        Me.btnVerificar.Size = New System.Drawing.Size(128, 49)
-        Me.btnVerificar.TabIndex = 1
-        Me.btnVerificar.Text = "Verificar"
-        Me.btnVerificar.UseVisualStyleBackColor = True
-        '
-        'lblResultado
-        '
-        Me.lblResultado.AutoSize = True
-        Me.lblResultado.Location = New System.Drawing.Point(472, 115)
-        Me.lblResultado.Name = "lblResultado"
-        Me.lblResultado.Size = New System.Drawing.Size(72, 17)
-        Me.lblResultado.TabIndex = 2
-        Me.lblResultado.Text = "Resultado"
+        Me.txtNumero.TabIndex = 1
         '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(800, 450)
-        Me.Controls.Add(Me.lblResultado)
-        Me.Controls.Add(Me.btnVerificar)
         Me.Controls.Add(Me.txtNumero)
+        Me.Controls.Add(Me.btnMostrar)
         Me.Name = "Form1"
         Me.Text = "Form1"
         Me.ResumeLayout(False)
@@ -67,7 +56,6 @@ Partial Class Form1
 
     End Sub
 
+    Friend WithEvents btnMostrar As Button
     Friend WithEvents txtNumero As TextBox
-    Friend WithEvents btnVerificar As Button
-    Friend WithEvents lblResultado As Label
 End Class
