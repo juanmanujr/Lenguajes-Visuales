@@ -1,0 +1,12 @@
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\operadores\operadores\obj\Debug\operadores.vbproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\operadores\operadores\obj\Debug\operadores.Form1.resources
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\operadores\operadores\obj\Debug\operadores.Resources.resources
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\operadores\operadores\obj\Debug\operadores.vbproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\operadores\operadores\obj\Debug\operadores.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\operadores\operadores\bin\Debug\operadores.exe.config
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\operadores\operadores\bin\Debug\operadores.exe
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\operadores\operadores\bin\Debug\operadores.pdb
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\operadores\operadores\bin\Debug\operadores.xml
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\operadores\operadores\obj\Debug\operadores.exe
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\operadores\operadores\obj\Debug\operadores.xml
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\operadores\operadores\obj\Debug\operadores.pdb

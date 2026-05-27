@@ -1,0 +1,11 @@
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\selecciona la mascota\selecciona la mascota\obj\Debug\selecciona_la_mascota.Form1.resources
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\selecciona la mascota\selecciona la mascota\obj\Debug\selecciona_la_mascota.Resources.resources
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\selecciona la mascota\selecciona la mascota\obj\Debug\selecciona la mascota.vbproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\selecciona la mascota\selecciona la mascota\obj\Debug\selecciona la mascota.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\selecciona la mascota\selecciona la mascota\bin\Debug\selecciona la mascota.exe.config
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\selecciona la mascota\selecciona la mascota\bin\Debug\selecciona la mascota.exe
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\selecciona la mascota\selecciona la mascota\bin\Debug\selecciona la mascota.pdb
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\selecciona la mascota\selecciona la mascota\bin\Debug\selecciona la mascota.xml
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\selecciona la mascota\selecciona la mascota\obj\Debug\selecciona la mascota.exe
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\selecciona la mascota\selecciona la mascota\obj\Debug\selecciona la mascota.xml
+C:\Users\ASUS\Downloads\Ing Informatica\2º año\3º semestre\Lenguajes visuales I\Clase 6\selecciona la mascota\selecciona la mascota\obj\Debug\selecciona la mascota.pdb
